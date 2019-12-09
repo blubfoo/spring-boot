@@ -63,7 +63,7 @@
 		<embedded-mongo.version>2.2.0</embedded-mongo.version>
 		<flyway.version>6.0.6</flyway.version>
 		<freemarker.version>2.3.29</freemarker.version>
-		<elasticsearch.version>6.8.3</elasticsearch.version>
+		<elasticsearch.version>6.8.4</elasticsearch.version>
 		<glassfish-el.version>3.0.3</glassfish-el.version>
 		<glassfish-jaxb.version>2.3.2</glassfish-jaxb.version>
 		<groovy.version>2.5.8</groovy.version>
@@ -80,7 +80,7 @@
 		<httpasyncclient.version>4.1.4</httpasyncclient.version>
 		<httpclient.version>4.5.10</httpclient.version>
 		<httpcore.version>4.4.12</httpcore.version>
-		<infinispan.version>9.4.16.Final</infinispan.version>
+		<infinispan.version>10.0.0.Final</infinispan.version>
 		<influxdb-java.version>2.15</influxdb-java.version>
 		<!-- deprecated since 2.1 in favor of "jackson-bom.version" -->
 		<jackson.version>2.10.0</jackson.version>
@@ -168,7 +168,7 @@
 		<pooled-jms.version>1.0.6</pooled-jms.version>
 		<postgresql.version>42.2.8</postgresql.version>
 		<prometheus-pushgateway.version>0.7.0</prometheus-pushgateway.version>
-		<quartz.version>2.3.1</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<querydsl.version>4.2.1</querydsl.version>
 		<rabbit-amqp-client.version>5.7.3</rabbit-amqp-client.version>
 		<reactor-bom.version>Dysprosium-RELEASE</reactor-bom.version>
