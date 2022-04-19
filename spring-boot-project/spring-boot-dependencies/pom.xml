@@ -185,14 +185,14 @@
 		<slf4j.version>1.7.28</slf4j.version>
 		<snakeyaml.version>1.25</snakeyaml.version>
 		<solr.version>8.2.0</solr.version>
-		<spring-amqp.version>2.2.0.RELEASE</spring-amqp.version>
+		<spring-amqp.version>2.3.16</spring-amqp.version>
 		<spring-batch.version>4.2.0.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.6.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Moore-RELEASE</spring-data-releasetrain.version>
 		<spring-framework.version>5.2.0.RELEASE</spring-framework.version>
-		<spring-hateoas.version>1.0.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>1.4.2</spring-hateoas.version>
 		<spring-integration.version>5.2.0.RELEASE</spring-integration.version>
-		<spring-kafka.version>2.3.1.RELEASE</spring-kafka.version>
+		<spring-kafka.version>2.7.13</spring-kafka.version>
 		<spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
 		<spring-restdocs.version>2.0.4.RELEASE</spring-restdocs.version>
 		<spring-retry.version>1.2.4.RELEASE</spring-retry.version>
