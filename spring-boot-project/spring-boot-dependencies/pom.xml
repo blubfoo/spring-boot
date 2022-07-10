@@ -127,7 +127,7 @@
 		<jetty.version>9.4.20.v20190813</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jetty-el.version>8.5.40</jetty-el.version>
-		<jetty-reactive-httpclient.version>1.0.3</jetty-reactive-httpclient.version>
+		<jetty-reactive-httpclient.version>1.1.12</jetty-reactive-httpclient.version>
 		<jmustache.version>1.15</jmustache.version>
 		<jna.version>4.5.2</jna.version>
 		<joda-time.version>2.10.4</joda-time.version>
@@ -184,7 +184,7 @@
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.28</slf4j.version>
 		<snakeyaml.version>1.25</snakeyaml.version>
-		<solr.version>8.2.0</solr.version>
+		<solr.version>9.0.0</solr.version>
 		<spring-amqp.version>2.2.0.RELEASE</spring-amqp.version>
 		<spring-batch.version>4.2.0.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.6.RELEASE</spring-cloud-connectors.version>
